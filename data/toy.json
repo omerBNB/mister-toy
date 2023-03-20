@@ -1,0 +1,122 @@
+[
+  {
+    "inStock": false,
+    "labels": [
+      "Doll",
+      "Battery Powered",
+      "Baby"
+    ],
+    "src": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/006.png",
+    "createdAt": 1678722860250,
+    "name": "charizard",
+    "price": 280
+  },
+  {
+    "labels": [
+      "Doll",
+      "Battery Powered",
+      "Baby"
+    ],
+    "src": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/009.png",
+    "createdAt": 1678776175449,
+    "inStock": true,
+    "name": "blastoise",
+    "price": 232
+  },
+  {
+    "name": "pikachu",
+    "price": 201,
+    "labels": [
+      "Doll",
+      "Battery Powered",
+      "Baby"
+    ],
+    "src": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/025.png",
+    "createdAt": 1678780004891,
+    "inStock": false
+  },
+  {
+    "name": "Ido",
+    "price": 330,
+    "labels": [
+      "Baby",
+      "Art",
+      "Box game"
+    ],
+    "src": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/012.png",
+    "createdAt": 1678801537120,
+    "inStock": true
+  },
+  {
+    "name": "nidoking",
+    "price": 213,
+    "labels": [
+      "Puzzele",
+      "Box Game",
+      "Art"
+    ],
+    "src": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/034.png",
+    "createdAt": 1678802457650,
+    "inStock": true
+  },
+  {
+    "name": "Lital",
+    "price": 399,
+    "labels": [
+      "Baby",
+      "Doll",
+      "Art"
+    ],
+    "src": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/004.png",
+    "createdAt": 1678815742585,
+    "inStock": true
+  },
+  {
+    "name": "balbasaur",
+    "price": 170,
+    "labels": [
+      "Doll",
+      "Baby",
+      "Art"
+    ],
+    "src": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/001.png",
+    "createdAt": 1678815992592,
+    "inStock": true
+  },
+  {
+    "name": "susu",
+    "price": 20,
+    "labels": [
+      "Box game",
+      "On wheels",
+      "Art"
+    ],
+    "createdAt": 1678819206779,
+    "src": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/045.png",
+    "inStock": true
+  },
+  {
+    "name": "fasfafa",
+    "price": 21,
+    "labels": [
+      "Battery Powered",
+      "Puzzele",
+      "Doll"
+    ],
+    "createdAt": 1678901933050,
+    "src": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/007.png",
+    "inStock": true
+  },
+  {
+    "name": "Omer",
+    "price": 26,
+    "labels": [
+      "On wheels",
+      "Art",
+      "Baby"
+    ],
+    "createdAt": 1678917756985,
+    "src": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/054.png",
+    "inStock": true
+  }
+]
